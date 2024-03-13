@@ -1,8 +1,9 @@
 <script setup lang="ts">
+import LoginView from '@/components/LoginView/LoginView.vue'
 </script>
 
 <template>
     <v-main>
-    <h1>Login View</h1>
+        <LoginView />
     </v-main>
 </template>
